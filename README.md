@@ -1,7 +1,8 @@
 
 <div align="center">
 
-# <img src="https://github.com/AvinashAnalytics/AvinashAnalytics.github.io/blob/main/assets/digital_twin_new.jpg" alt="Robot" width="100" height="100" /> Avinash Digital Twin Ecosystem
+# <img src="https://github.com/AvinashAnalytics/AvinashAnalytics.github.io/blob/main/assets/digital_twin_new.jpg" alt="Robot" width="100" height="100" /> 
+Avinash Digital Twin Ecosystem
 
 ### *"If I have to do it twice, I script it."*
 
